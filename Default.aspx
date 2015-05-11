@@ -19,9 +19,21 @@
         </div>
 
         <p>
-        <asp:Label ID="nameLbl" runat="server" Text="My name is:"></asp:Label>&nbsp&nbsp
+        <asp:Label ID="nameLbl" runat="server" Text="My name is:"></asp:Label>&nbsp
         <asp:TextBox ID="nameTextBox" runat="server"></asp:TextBox>
         </p>
+     
+           <div id="column-left">
+            <div id="column-left-text">
+            <asp:Label ID="languageLbl" runat="server" Text="Please select your language:"></asp:Label>
+            <asp:DropDownList ID="DropDownList1" runat="server" AutoPostBack="True"></asp:DropDownList>
+                
+                
+            </div>
+           </div>
+       
+        <p>
+            &nbsp;</p>
 
         <p>
         <asp:Label ID="gender" runat="server" Text="Please select your gender:"></asp:Label>
@@ -46,6 +58,10 @@
         <br />
         <asp:Label ID="hopeLbl" runat="server" Text="When I graduate, I hope to earn a degree in:"></asp:Label>&nbsp&nbsp
         <asp:TextBox ID="hopeTextBox" runat="server"></asp:TextBox>
+        <br />
+        <br />
+        <br />
+        <asp:Button ID="submitBtn" runat="server" Text="Submit" />
         <br />
 
 
