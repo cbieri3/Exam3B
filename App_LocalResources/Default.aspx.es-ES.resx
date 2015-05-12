@@ -118,39 +118,60 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="classLbl.Text" xml:space="preserve">
-    <value />
+    <value>Diseño y Desarrollo de Software</value>
   </data>
   <data name="femaleRadioBtn.Text" xml:space="preserve">
-    <value />
+    <value>femenino</value>
   </data>
   <data name="gender.Lbl" xml:space="preserve">
-    <value />
+    <value>Por favor seleccione su género:</value>
   </data>
   <data name="graduateLbl.Text" xml:space="preserve">
-    <value />
+    <value>Tengo la intención de graduarse en:</value>
   </data>
   <data name="hopeLbl.Text" xml:space="preserve">
-    <value />
+    <value>Cuando me gradúe, espero ganar un título en:</value>
   </data>
   <data name="hopeTextBox.Text" xml:space="preserve">
     <value />
   </data>
   <data name="languageLbl.Text" xml:space="preserve">
+    <value>Por favor seleccione su idioma:</value>
+  </data>
+  <data name="lbl_actualgender.Text" xml:space="preserve">
     <value />
+  </data>
+  <data name="lbl_actualname.Text" xml:space="preserve">
+    <value />
+  </data>
+  <data name="lbl_actualsalary.Text" xml:space="preserve">
+    <value />
+  </data>
+  <data name="lbl_graddate.Text" xml:space="preserve">
+    <value />
+  </data>
+  <data name="lbl_hello.Text" xml:space="preserve">
+    <value>Hola,</value>
+  </data>
+  <data name="lbl_response1.Text" xml:space="preserve">
+    <value>que es maravilloso que usted está graduando en</value>
+  </data>
+  <data name="lbl_response2.Text" xml:space="preserve">
+    <value>y espero que usted haga</value>
   </data>
   <data name="maleRadioBtn.Text" xml:space="preserve">
-    <value />
+    <value>Masculino</value>
   </data>
   <data name="nameLbl.Text" xml:space="preserve">
-    <value />
+    <value>Mi nombre es:</value>
   </data>
   <data name="nameTextBox.Text" xml:space="preserve">
     <value />
   </data>
   <data name="submitBtn.Text" xml:space="preserve">
-    <value />
+    <value>Presentar</value>
   </data>
   <data name="welcomeLbl.Text" xml:space="preserve">
-    <value>English</value>
+    <value>Bienvenido a</value>
   </data>
 </root>
