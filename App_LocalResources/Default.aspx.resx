@@ -130,7 +130,7 @@
     <value>I plan to graduate on:</value>
   </data>
   <data name="hopeLbl.Text" xml:space="preserve">
-    <value>When I graduate, I hope to earn a degree in:</value>
+    <value>When I graduate, I hope to earn:</value>
   </data>
   <data name="hopeTextBox.Text" xml:space="preserve">
     <value />
